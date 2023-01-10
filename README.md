@@ -1,3 +1,5 @@
+<h3 align="center">THIS PROJECT IS IN BETA PHASE AND CANNOT BE DOWNLOADED!</h3>
+
 <a name="readme-top"></a>
 <div align="center">
 
@@ -23,13 +25,13 @@
 
 # About The Project
 
-Vulx is a profile editor made for Valorant that creates a dedicated dashboard allowing for full customisation within the clients presence service. Built using Node.JS and requiring zero authentication Vulx offers the best features while prioritizing the users experience :smile:
+VALORANT Project 1 is the first project i´ve created and its planned to create more projects in the future, like Project 2...3...4... and more
 
-For any and all help related to Vulx join our [Discord server](https://discord.gg/gHWTGbqZ3y)!
+For any and all help related to the Projects join our [Discord server](https://discord.gg/65aCrr9Zs3)!
 
 # Getting Started
 
-To get started simply head over to [releases](https://github.com/vulxdev/Vulx/releases) and download the latest version of Vulx. We'll be updating Vulx periodically so make sure to check back to get the latest cool features!
+To get started simply head over to [releases](https://github.com/ChamberDev/valorant-project-1/releases) and download the latest version of the VALORANT Project 1. We'll be updating the Projects versions periodically so make sure to check back to get the latest cool features!
 
 Our Discord has a dedicated channel for support and help, if you have any issues or questions make sure to join and ask away!
 
