@@ -1,29 +1,23 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-  [![Download][release-shield]][release-url]
-  [![Discord][discord-shield]][discord-url]
 
-  <a href="https://github.com/vulxdev/vulx">
-     <img src="https://i.imgur.com/LPivmd6.png">
+  <a href="https://github.com/ChamberDev/valorant-project-1">
+     <img src="https://i.ibb.co/YB19XY3/L10-Sillos-Final.jpg">
   </a>
 
-  <h3 align="center">Vulx - Profile Editor</h3>
+  <h3 align="center">VALORANT Project 1 - by ChamberDev</h3>
 
   <p align="center">
-    An application made to enhance your Valorant experience!
+    This is the first project created by ChamberDev!
     <br />
    </p>
    <h3>
-    <a href="https://github.com/vulxdev/Vulx/issues">Issues</a>
+    <a href="https://twitter.com/timlyyoffical">Twitter/Help</a>
     ·
-    <a href="https://discord.gg/gHWTGbqZ3y">Discord</a>
+    <a href="https://dsg.gg/timlyy">Discord</a>
     ·
-    <a href="https://youtube.com/aqua">YouTube</a>
+    <a href="https://youtube.com/@timlyy">YouTube</a>
    </h3>
 </div>
 
